@@ -1,0 +1,14 @@
+.homeBackground {
+  background-image: url("images/bg_apart.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.boldFont {
+  font-family: "Protest Strike", sans-serif;
+}
+
+.lightFont {
+  font-family: "Cabin", sans-serif;
+}
